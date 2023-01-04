@@ -4,7 +4,6 @@ import {TableModule} from 'primeng/table';
 import {CalendarModule} from 'primeng/calendar';
 import {SelectButtonModule} from 'primeng/selectbutton';
 
-
 const PrimeComponents = [
   ButtonModule,
   TableModule,
