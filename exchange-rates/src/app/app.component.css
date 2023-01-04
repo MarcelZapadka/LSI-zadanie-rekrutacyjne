@@ -1,0 +1,39 @@
+.main-content {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  padding-left: 13rem;
+  padding-right: 13rem;
+  padding-top: 120px;
+}
+
+.table {
+  margin: 0 auto;
+}
+
+.calendar {
+  align-self: flex-end;
+}
+
+.navigation {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.dark-mode {
+  align-self: flex-start;
+  margin-top: 10px;
+}
+
+.mode-info {
+  align-self: flex-start;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.error {
+  font-size: 50px;
+  text-align: center;
+}
